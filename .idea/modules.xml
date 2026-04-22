@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Quantity Measuement App.iml" filepath="$PROJECT_DIR$/Quantity Measuement App.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Quantity Measurement App.iml" filepath="$PROJECT_DIR$/Quantity Measurement App.iml" />
+>>>>>>> fd6fe573d77cba11902a01343148895031708445
     </modules>
   </component>
 </project>

@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/Quantity-Measurement-App" vcs="Git" />
+>>>>>>> fd6fe573d77cba11902a01343148895031708445
   </component>
 </project>
